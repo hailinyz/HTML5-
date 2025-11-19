@@ -111,7 +111,7 @@
             <div class="profile-motto">吃饱了才有力气干活</div>
             <div class="profile-avatar-wrapper">
               <div class="profile-avatar">
-                <img src="https://tc.hailin.ip-ddns.com/file/OSS/1759469067787_avatar.jpg" alt="头像" class="avatar-image" />
+                <img src="https://javawebhl.oss-cn-beijing.aliyuncs.com/2025/touxiang.png" alt="头像" class="avatar-image" />
                 <div class="avatar-badge">😜</div>
               </div>
             </div>
@@ -181,15 +181,15 @@ const router = useRouter()
 // 在这里添加你的轮播图片，可以添加多张
 const carouselImages = ref([
   {
-    src: 'https://tc.hailin.ip-ddns.com/file/blog/1761987131084_html5.png',
+    src: 'https://javawebhl.oss-cn-beijing.aliyuncs.com/2025/html5.png',
     alt: '轮播图1'
   },
   {
-    src: 'https://tc.hailin.ip-ddns.com/file/blog/1761987125357_vue_element.png', // 可以添加更多图片
+    src: 'https://javawebhl.oss-cn-beijing.aliyuncs.com/2025/N.png', // 可以添加更多图片
     alt: '轮播图2'
   },
   {
-    src: 'https://tc.hailin.ip-ddns.com/file/blog/1761987261564_N.png',
+    src: 'https://javawebhl.oss-cn-beijing.aliyuncs.com/2025/vue%2Belement.png',
     alt: '轮播图3'
   }
 ])
@@ -211,7 +211,7 @@ const articles = ref([
     badge2: '最新',
     tags: ['教程', 'JAVAEE'],
     date: '2025-9-17',
-    image: 'https://tc.hailin.ip-ddns.com/file/blog/1758971733012_微信图片_20250917211804.jpg'
+    image: 'https://javawebhl.oss-cn-beijing.aliyuncs.com/2025/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%98%AF%E5%A6%82%E4%BD%95%E5%B7%A5%E4%BD%9C%E7%9A%84.jpg'
   },
   {
     id: 2,

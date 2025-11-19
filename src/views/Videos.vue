@@ -126,7 +126,7 @@ const videos = ref([
     description: '框架排行榜从夯到拉',
     duration: '5:30',
     views: '3.2k',
-    src: '/Desktop 2025.11.01 - 16.30.17.04.mp4'
+    src: 'https://javawebhl.oss-cn-beijing.aliyuncs.com/2025/fonted.mp4'
   },
   {
     id: 2,
@@ -134,7 +134,7 @@ const videos = ref([
     description: '从零开始学习HTML5网页开发',
     duration: '15:20',
     views: '5.6k',
-    src: '/Desktop 2025.11.01 - 16.28.17.02.mp4'
+    src: 'https://javawebhl.oss-cn-beijing.aliyuncs.com/2025/html.mp4'
   },
   {
     id: 3,
@@ -142,7 +142,7 @@ const videos = ref([
     description: 'Spring',
     duration: '12:45',
     views: '4.1k',
-    src: '/Desktop 2025.11.01 - 16.29.18.03.mp4'
+    src: 'https://javawebhl.oss-cn-beijing.aliyuncs.com/2025/spring.mp4'
   }
 ])
 
